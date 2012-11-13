@@ -17,7 +17,7 @@ Can send customer notifications through email or text messaging.
 Supports delivery and multiple store locations.
 Features Google map integration which helps customers slect store location and drivers find customer homes.
 Full-blown sophisticated menu mangement allows the easy creation of multiple categories or sub-menus.
-Ingredient and tropping placement requests are accounted for and pricing adjustments are automated.
+Ingredient and topping placement requests are accounted for and pricing adjustments are automated.
 Allows customers to provide menu item order comments.
 
 

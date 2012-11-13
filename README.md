@@ -7,7 +7,7 @@ Attractive UI that blows away most pizza ordering systems seen on the net!
 Smart UI design lets customers place an order in seconds while sitting at a stoplight!
 Customers can place orders by providing a phone number, or by logging in (registering).
 Logged in (registered) customers can store order favorites.
-Allows customers to schedule orders (considers store hours)
+Allows customers to schedule orders (considers store hours). 
 Setup to take advantage of social media integration.
 Includes a Java desktop application that automatically prints new orders locally.
 Full management functions including a live order dashboard, reports, user manager (customers, employees, supervisors), menu manager, and coupon management.
